@@ -25,10 +25,10 @@ namespace TransacaoFinanceira
 
             };
             executarTransacaoFinanceira executor = new executarTransacaoFinanceira();
-            Parallel.ForEach(TRANSACOES, item =>
+            foreach(var item in TRANSACOES)
             {
                 executor.transferir(item.correlation_id, item.conta_origem, item.conta_destino, item.VALOR);
-            });
+            };
 
         }
     }
@@ -48,7 +48,7 @@ namespace TransacaoFinanceira
                 contas_saldo conta_saldo_destino = getSaldo<contas_saldo>(conta_destino);
                 conta_saldo_origem.saldo -= valor;
                 conta_saldo_destino.saldo += valor;
-                Console.WriteLine("Transacao numero {0} foi efetivada com sucesso! Novos saldos: Conta Origem:{1} | Conta Destino: {3}", correlation_id, conta_saldo_origem.saldo, conta_saldo_destino.saldo);
+                Console.WriteLine("Transacao numero {0} foi efetivada com sucesso! Novos saldos: Conta Origem:{1} | Conta Destino: {2}", correlation_id, conta_saldo_origem.saldo, conta_saldo_destino.saldo);
             }
         }
     }
