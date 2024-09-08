@@ -1,0 +1,16 @@
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\TransacaoFinanceira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\TransacaoFinanceira.AssemblyInfoInputs.cache
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\TransacaoFinanceira.AssemblyInfo.cs
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\TransacaoFinanceira.csproj.CoreCompileInputs.cache
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\TransacaoFinanceira.sourcelink.json
+C:\Users\julia\git\case-eng-jr\bin\Debug\net5.0\TransacaoFinanceira.exe
+C:\Users\julia\git\case-eng-jr\bin\Debug\net5.0\TransacaoFinanceira.deps.json
+C:\Users\julia\git\case-eng-jr\bin\Debug\net5.0\TransacaoFinanceira.runtimeconfig.json
+C:\Users\julia\git\case-eng-jr\bin\Debug\net5.0\TransacaoFinanceira.runtimeconfig.dev.json
+C:\Users\julia\git\case-eng-jr\bin\Debug\net5.0\TransacaoFinanceira.dll
+C:\Users\julia\git\case-eng-jr\bin\Debug\net5.0\TransacaoFinanceira.pdb
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\TransacaoFinanceira.dll
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\refint\TransacaoFinanceira.dll
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\TransacaoFinanceira.pdb
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\TransacaoFinanceira.genruntimeconfig.cache
+C:\Users\julia\git\case-eng-jr\obj\Debug\net5.0\ref\TransacaoFinanceira.dll
